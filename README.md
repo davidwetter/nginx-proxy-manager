@@ -6,4 +6,3 @@ https://amzn.to/2HbBSd8<br>
 * Link zum Entwickler:<br>
 https://github.com/jc21/nginx-proxy-manager<br>
 * Relevante Videos:
-Apache Reverse Proxy:<br> https://www.youtube.com/watch?v=yPwTbW-gxJk
