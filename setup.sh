@@ -1,4 +1,8 @@
 ##### Install Docker + Docker Compse ##### 
+# Script Name		: setup.sh
+# Author				: David Wetter
+# Created				: 2. Mai 2022
+# Version				: 1.0.2
 
 apt update && apt upgrade -y
 
